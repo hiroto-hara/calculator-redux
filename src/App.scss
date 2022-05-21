@@ -31,6 +31,9 @@
       &:hover {
         background: #999999;
       }
+      &:focus {
+        outline: none;
+      }
     }
     .operator {
       display: flex;
