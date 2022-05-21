@@ -6,7 +6,7 @@ import {
   DIVIDE,
   EQUAL,
   CLEAR,
-} from "..actions/types";
+} from "../actions/types";
 
 const initialAppState = {
   inputValue: 0,
